@@ -191,4 +191,5 @@ class TestUser_to_dict(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main()technique done by 
+    n3 -m unittest discover testspython3 -m unittest discover tests
